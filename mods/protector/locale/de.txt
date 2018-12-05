@@ -1,0 +1,44 @@
+# German Translation for protector mod
+# Deutsche Übersetzung der protector Mod
+# last update: 2016/June/5
+# Author: Xanthin
+
+#admin.lua
+Remove Protectors near players with names provided (separate names with spaces) = Entferne Stoerschuetzer von bestimmten Namen in der Naehe von Spielern (trenne Namen durch Leerzeichen)
+Protector Names to remove: @1 = Stoerschutznamen zum Entfernen: @1
+Name List Reset = Namensliste zurueckgesetzt
+
+#doors_chest.lua
+Protected Wooden Door = Geschützte Holztür
+Protected Steel Door = Geschützte Stahltür
+Protected Trapdoor = Geschützte Falltür
+Protected Steel Trapdoor = Geschützte Stahlfalltür
+Protected Chest = Geschützte Truhe
+@1 moves stuff to protected chest at @2 = @1 verlagert Dinge in geschützte Truhe bei @2
+@1 takes stuff from protected chest at @2 = @1 nimmt Dinge aus geschützter Truhe bei @2
+To Chest = Zur Truhe
+To Inventory = Zum Inventar
+Protected Chest (@1) = Geschützte Truhe (@1)
+
+#init.lua
+-- Protector interface -- = -- Störschutz-Interface --
+PUNCH node to show protected area = SCHLAGE Node, um geschützten Bereich anzuzeigen oder
+USE for area check = BENUTZE für Bereichsprüfung
+Members: = Mitglieder:
+Close = Schließen
+This area is owned by @1! = Dieses Gebiet gehoert @1!
+This area is owned by @1. = Dieses Gebiet gehoert @1.
+Protection located at: @1 = Stoerschutz befindet sich bei: @1
+Members: @1. = Mitglieder: @1.
+This area is not protected. = Dieses Gebiet ist nicht geschuetzt.
+You can build here. = Du kannst hier bauen.
+Overlaps into above players protected area = Ueberlappt in geschuetzen Bereich eines Spielers
+Protection Block = Störschutzblock
+Protection (owned by @1) = Störschutz (gehört @1)
+Protection Logo = Störschutzlogo
+[MOD] Protector Redo loaded = [MOD] Protector Redo geladen
+
+#pvp.lua
+[Protector] on_punchplayer called with nil objects = on_punchplayer wurde durch "nil objects" aufgerufen
+[Protector] pvp_protect not active, update your version of Minetest = pvp_protect ist nicht aktiv, aktualisiere deine Minetestversion
+[Protector] pvp_protect is disabled = pvp_protect ist ausgeschaltet

@@ -1,0 +1,42 @@
+# Template for translations of protector mod
+# last update: 2016/June/5
+
+#admin.lua
+Remove Protectors near players with names provided (separate names with spaces) =  Retirer les protecteurs près des joueurs avec les noms fournis (noms séparés avec des espaces)
+Protector Names to remove: @1 = Noms de protecteurs à supprimer: @1
+Name List Reset = Liste de noms réinitialiser
+
+#doors_chest.lua
+Protected Wooden Door = Porte en bois protégée
+Protected Steel Door = Porte en acier protégée
+Protected Trapdoor =  Trappe protégé
+Protected Steel Trapdoor = Trap en acier protégé
+Protected Chest = Coffre protégé
+@1 moves stuff to protected chest at @2 = @1 déplace des objets vers le coffre protégée à @2
+@1 takes stuff from protected chest at @2 = @1 prend des objets du coffre protégée à @2
+To Chest = Vers le coffre
+To Inventory = Vers l'inventaire
+Protected Chest (@1) =  Coffre protégé (@1)
+
+#init.lua
+-- Protector interface -- = -- Interface Protector --
+PUNCH node to show protected area = TAPÉ le bloc pour afficher la zone protégée
+USE for area check = UTILISER pour vérifier la zone
+Members: = Membres:
+Close = Fermer
+This area is owned by @1! = Cette zone appartient à @1!
+This area is owned by @1. = Cette zone appartient à @1.
+Protection located at: @1 = Protection située à: @1
+Members: @1. = Membres: @1.
+This area is not protected. = Cette zone n'est pas protégée.
+You can build here. = Vous pouvez construire ici.
+Overlaps into above players protected area = Vous chevauché une zone protégé.
+Protection Block = Bloc de protection
+Protection (owned by @1) = Protection (détenue par @1)
+Protection Logo = Logo de protection
+[MOD] Protector Redo loaded = [MOD] Protector Redo chargé
+
+#pvp.lua
+[Protector] on_punchplayer called with nil objects = [Protector] on_punchplayer appelé avec des objets nil
+[Protector] pvp_protect not active, update your version of Minetest = [Protector] pvp_protect est désactivé, mettez à jour votre version de Minetest
+[Protector] pvp_protect is disabled = [Protector] pvp_protect est désactivé

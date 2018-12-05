@@ -1,0 +1,9 @@
+[submodule "mods/fromscratch"]
+	path = mods/fromscratch
+	url = git@github.com:Quent42340/FromScratch.git
+[submodule "mods/wtdn"]
+	path = mods/wtdn
+	url = git@github.com:Quent42340/wtdn.git
+[submodule "mods/skyblock"]
+	path = mods/skyblock
+	url = git@github.com:Quent42340/minetest-skyblock.git

@@ -1,0 +1,9 @@
+#Maximum number of messages in the center displayed at once.
+#Use 0 for no limit.
+central_message_max (Maximum number of central messages) int 7 0
+
+#How long (in seconds) a message in the center is shown.
+central_message_time (Central message duration) int 5 1
+
+#Message color of all messages shown in the center (R,G,B).
+central_message_color (Central message color) string (255,255,255)

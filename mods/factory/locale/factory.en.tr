@@ -1,0 +1,131 @@
+# textdomain: factory
+# this is not a translation...
+
+### decor/factorybrick.lua ###
+Factory Brick=Factory Brick
+
+### decor/itemsieve.lua ###
+stack sieve=stack sieve
+half stack sieve=half stack sieve
+item sieve=item sieve
+half item sieve=half item sieve
+
+### decor/smoketube.lua ###
+Smoke Tube=Smoke Tube
+
+## devices ###
+no fuel to burn=no fuel to burn
+no smoke tube=no smoke tube
+active=active
+fully charged=fully charged
+
+### electronics/device.lua ###
+@1charge: @2=@1charge: @2
+empty=empty
+unpowered=unpowered
+
+### electronics/combustion_generator.lua ###
+Combustion Generator=Combustion Generator
+
+### electronics/electronic_furnace.lua ###
+Electronic Furnace=Electronic Furnace
+
+### items/crafting.lua ###
+squeezing=squeezing
+drawing wire=drawing wire
+
+### items/craftitems.lua ###
+Tree Sap=Tree Sap
+Compressed Clay=Compressed Clay
+Factory Lump=Factory Lump
+Item Scanning Microchip=Item Scanning Microchip
+Small Fanblade=Small Fanblade
+
+### items/gears.lua ###
+Small Steel Gear=Small Steel Gear
+Small Gold Gear=Small Gold Gear
+Small Diamond Gear=Small Diamond Gear
+
+### items/storage_tank.lua ###
+Storage Tank=Storage Tank
+Storage Tank (@1)=Storage Tank (@1)
+Storage Tank (@1): @2% full=Storage Tank (@1): @2% full
+water=water
+lava=lava
+
+### items/wires.lua ###
+spool of @1 wire=spool of @1 wire
+copper=copper
+steel=steel
+Fiber=Fiber
+
+### machines ###
+@1 is empty=@1 is empty
+@1 has no smoke tube=@1 has no smoke tube
+@1 has no fuel to burn=@1 has no fuel to burn
+@1 was switched off=@1 was switched off
+
+### machines/arm.lua ###
+Pneumatic Mover=Pneumatic Mover
+
+### machines/autocrafter.lua ###
+unknown item=unknown item
+unconfigured Autocrafter=unconfigured Autocrafter
+'@1' Autocrafter (@2)='@1' Autocrafter (@2)
+Autocrafter=Autocrafter
+unconfigured Autocrafter: unknown recipe=unconfigured Autocrafter: unknown recipe
+
+### machines/belt.lua ###
+centering Conveyor Belt=centering Conveyor Belt
+Conveyor Belt=Conveyor Belt
+
+### machines/fan.lua ###
+Fan=Fan
+Wall Fan=Wall Fan
+
+### machines/ind_furnace.lua ###
+Industrial Furnace=Industrial Furnace
+Industrial Furnace (burning)=Industrial Furnace (burning)
+Industrial Furnace is smelting, fuel current used: @1%=Industrial Furnace is smelting, fuel current used: @1%
+
+### machines/ind_squeezer.lua ###
+Industrial Squeezer=Industrial Squeezer
+Industrial Squeezer (working)=Industrial Squeezer (working)
+Industrial Squeezer is working, fuel current used: @1%=Industrial Squeezer is working, fuel current used: @1%
+
+### machines/miner.lua ###
+Industrial Miner=Industrial Miner
+@1 hit protected block=@1 hit protected block
+@1 hit lava=@1 hit lava
+@1 hit undiggable block=@1 hit undiggable block
+@1 has reached the maximum length=@1 has reached the maximum length
+Upgraded Miner=Upgraded Miner
+
+### machines/oarm.lua ###
+Overflowing Pneumatic Mover=Overflowing Pneumatic Mover
+
+### machines/qarm.lua ###
+Queued Pneumatic Mover=Queued Pneumatic Mover
+
+### machines/stp.lua ###
+Sapling Fertilizer=Sapling Fertilizer
+Sapling Treatment Plant=Sapling Treatment Plant
+
+### machines/swapper.lua ###
+Swapper=Swapper
+
+### machines/taker.lua ###
+Pneumatic Taker=Pneumatic Taker
+Pneumatic Taker Mk II=Pneumatic Taker Mk II
+Pneumatic Taker Mk III=Pneumatic Taker Mk III
+
+### machines/vacuum.lua ###
+Vacuum=Vacuum
+
+### machines/upward_vacuum.lua ###
+Vacuum Sorter=Vacuum Sorter
+
+### machines/wire_drawer.lua ###
+Wire Drawer=Wire Drawer
+Wire Drawer (working)=Wire Drawer (working)
+Wire Drawer is working, fuel current used: @1%=Wire Drawer is working, fuel current used: @1%

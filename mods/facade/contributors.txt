@@ -1,0 +1,2 @@
+Special thanks to Napiophelios for taking the time to clean up my sloppy coding style, and making it far more efficient.
+(Thanks Nappy!)

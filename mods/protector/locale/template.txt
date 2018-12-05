@@ -1,0 +1,42 @@
+# Template for translations of protector mod
+# last update: 2016/June/5
+
+#admin.lua
+Remove Protectors near players with names provided (separate names with spaces) = 
+Protector Names to remove: @1 = 
+Name List Reset = 
+
+#doors_chest.lua
+Protected Wooden Door = 
+Protected Steel Door = 
+Protected Trapdoor = 
+Protected Steel Trapdoor = 
+Protected Chest = 
+@1 moves stuff to protected chest at @2 = 
+@1 takes stuff from protected chest at @2 = 
+To Chest = 
+To Inventory = 
+Protected Chest (@1) = 
+
+#init.lua
+-- Protector interface -- = 
+PUNCH node to show protected area = 
+USE for area check = 
+Members: = 
+Close = 
+This area is owned by @1! = 
+This area is owned by @1. = 
+Protection located at: @1 = 
+Members: @1. = 
+This area is not protected. = 
+You can build here. = 
+Overlaps into above players protected area = 
+Protection Block = 
+Protection (owned by @1) = 
+Protection Logo = 
+[MOD] Protector Redo loaded = 
+
+#pvp.lua
+[Protector] on_punchplayer called with nil objects = 
+[Protector] pvp_protect not active, update your version of Minetest = 
+[Protector] pvp_protect is disabled = 

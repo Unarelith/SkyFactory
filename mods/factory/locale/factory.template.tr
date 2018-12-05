@@ -1,0 +1,131 @@
+# textdomain: factory
+# Translation by <your name>
+
+### decor/factorybrick.lua ###
+Factory Brick=
+
+### decor/itemsieve.lua ###
+stack sieve=
+half stack sieve=
+item sieve=
+half item sieve=
+
+### decor/smoketube.lua ###
+Smoke Tube=
+
+## devices ###
+no fuel to burn=
+no smoke tube=
+active=
+fully charged=
+
+### electronics/device.lua ###
+@1charge: @2=
+empty=
+unpowered=
+
+### electronics/combustion_generator.lua ###
+Combustion Generator=
+
+### electronics/electronic_furnace.lua ###
+Electronic Furnace=
+
+### items/crafting.lua ###
+squeezing=
+drawing wire=
+
+### items/craftitems.lua ###
+Tree Sap=
+Compressed Clay=
+Factory Lump=
+Item Scanning Microchip=
+Small Fanblade=
+
+### items/gears.lua ###
+Small Steel Gear=
+Small Gold Gear=
+Small Diamond Gear=
+
+### items/storage_tank.lua ###
+Storage Tank=
+Storage Tank (@1)=
+Storage Tank (@1): @2% full=
+water=
+lava=
+
+### items/wires.lua ###
+spool of @1 wire=
+copper=
+steel=
+Fiber=
+
+### machines ###
+@1 is empty=
+@1 has no smoke tube=
+@1 has no fuel to burn=
+@1 was switched off=
+
+### machines/arm.lua ###
+Pneumatic Mover=
+
+### machines/autocrafter.lua ###
+unknown item=
+unconfigured Autocrafter=
+'@1' Autocrafter (@2)=
+Autocrafter=
+unconfigured Autocrafter: unknown recipe=
+
+### machines/belt.lua ###
+centering Conveyor Belt=
+Conveyor Belt=
+
+### machines/fan.lua ###
+Fan=
+Wall Fan=
+
+### machines/ind_furnace.lua ###
+Industrial Furnace=
+Industrial Furnace (burning)=
+Industrial Furnace is smelting, fuel current used: @1%=
+
+### machines/ind_squeezer.lua ###
+Industrial Squeezer=
+Industrial Squeezer (working)=
+Industrial Squeezer is working, fuel current used: @1%=
+
+### machines/miner.lua ###
+Industrial Miner=
+@1 hit protected block=
+@1 hit lava=
+@1 hit undiggable block=
+@1 has reached the maximum length=
+Upgraded Miner=
+
+### machines/oarm.lua ###
+Overflowing Pneumatic Mover=
+
+### machines/qarm.lua ###
+Queued Pneumatic Mover=
+
+### machines/stp.lua ###
+Sapling Fertilizer=
+Sapling Treatment Plant=
+
+### machines/swapper.lua ###
+Swapper=
+
+### machines/taker.lua ###
+Pneumatic Taker=
+Pneumatic Taker Mk II=
+Pneumatic Taker Mk III=
+
+### machines/vacuum.lua ###
+Vacuum=
+
+### machines/upward_vacuum.lua ###
+Vacuum Sorter=
+
+### machines/wire_drawer.lua ###
+Wire Drawer=
+Wire Drawer (working)=
+Wire Drawer is working, fuel current used: @1%=

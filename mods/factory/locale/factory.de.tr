@@ -1,0 +1,131 @@
+# textdomain: factory
+# Translation by theFox
+
+### decor/factorybrick.lua ###
+Factory Brick=Fabrik Backstein
+
+### decor/itemsieve.lua ###
+stack sieve=haufen sieb
+half stack sieve=halbes haufen sieb
+item sieve=gegenstandssieb
+half item sieve=halbes gegenstandssieb
+
+### decor/smoketube.lua ###
+Smoke Tube=Schornstein
+
+## devices ###
+no fuel to burn=kein Brennstoff
+no smoke tube=kein Schornschtein
+active=aktiv
+fully charged=aufgeladen
+
+### electronics/device.lua ###
+@1charge: @2=@1Ladung: @2
+empty=leer
+unpowered=kein Strom
+
+### electronics/combustion_generator.lua ###
+Combustion Generator=Verbrennungs Generator
+
+### electronics/electronic_furnace.lua ###
+Electronic Furnace=Elektro-Ofen
+
+### items/crafting.lua ###
+squeezing=pressen
+drawing wire=drahtschneiden
+
+### items/craftitems.lua ###
+Tree Sap=Baumharz
+Compressed Clay=Komprimierter Lehm
+Factory Lump=Fabrik Klumpen
+Item Scanning Microchip=Gegenstand erkennender Mikrochip
+Small Fanblade=Kleiner Ventilatorfluegel
+
+### items/gears.lua ###
+Small Steel Gear=Kleines Stahl Zahnrad
+Small Gold Gear=Kleines Gold Zahnrad
+Small Diamond Gear=Kleines Diamant Zahnrad
+
+### items/storage_tank.lua ###
+Storage Tank=Flüssigkeitstank
+Storage Tank (@1)=Flüssigkeitstank (@1)
+Storage Tank (@1): @2% full=Flüssigkeitstank (@1): @2% voll
+water=Wasser
+lava=Lava
+
+### items/wires.lua ###
+spool of @1 wire=Spule mit @1draht
+copper=Kupfer
+steel=Stahl
+Fiber=Harzfaser
+
+### machines ###
+@1 is empty=@1 ist leer
+@1 has no smoke tube=@1 hat keinen Schornschtein
+@1 has no fuel to burn=@1 hat keinen Brennstoff
+@1 was switched off=@1 wurde ausgeschaltet
+
+### machines/arm.lua ###
+Pneumatic Mover=Pneumatischer Packer
+
+### machines/autocrafter.lua ###
+unknown item=unbekannter Gegenstand
+unconfigured Autocrafter=unkonfigurierter Hersteller
+'@1' Autocrafter (@2)='@1' Hersteller (@2)
+Autocrafter=Hersteller
+unconfigured Autocrafter: unknown recipe=unkonfigurierter Hersteller: unbekanntes Rezept
+
+### machines/belt.lua ###
+centering Conveyor Belt=mittelndes Laufband
+Conveyor Belt=Laufband
+
+### machines/fan.lua ###
+Fan=Ventilator
+Wall Fan=Wand Ventilator
+
+### machines/ind_furnace.lua ###
+Industrial Furnace=industrieller Ofen
+Industrial Furnace (burning)=industrieller Ofen (brennt)
+Industrial Furnace is smelting, fuel current used: @1%=industrieller Ofen bäckt, Brennstoff verbraucht: @1%
+
+### machines/ind_squeezer.lua ###
+Industrial Squeezer=Industrielle Presse
+Industrial Squeezer (working)=industrielle Presse (presst)
+Industrial Squeezer is working, fuel current used: @1%=industrielle Presse presst, Brennstoff verbraucht: @1%
+
+### machines/miner.lua ###
+Industrial Miner=Industrieller Bohrer
+@1 hit protected block=@1 ist auf einen geschützten Block gestoßen
+@1 hit lava=@1 ist auf Lava gestoßen
+@1 hit undiggable block=@1 ist auf einen nicht grabbaren Block gestoßen
+@1 has reached the maximum length=@1 hat seine maximale tiefe erreicht
+Upgraded Miner=aufgerüsteter Bohrer
+
+### machines/oarm.lua ###
+Overflowing Pneumatic Mover=Überfließender Pneumatischer Packer
+
+### machines/qarm.lua ###
+Queued Pneumatic Mover=Puffernder Pneumatischer Packer
+
+### machines/stp.lua ###
+Sapling Fertilizer=Setzling Dünger
+Sapling Treatment Plant=Setzling Verarbeiter
+
+### machines/swapper.lua ###
+Swapper=Sortierer
+
+### machines/taker.lua ###
+Pneumatic Taker=Pneumatischer Nehmer
+Pneumatic Taker Mk II=Pneumatischer Nehmer v2
+Pneumatic Taker Mk III=Pneumatischer Nehmer v3
+
+### machines/vacuum.lua ###
+Vacuum=Sauger
+
+### machines/upward_vacuum.lua ###
+Vacuum Sorter=Saugender Sortierer
+
+### machines/wire_drawer.lua ###
+Wire Drawer=Drahtschneider
+Wire Drawer (working)=Drahtschneider (schneidet)
+Wire Drawer is working, fuel current used: @1%=Drahtschneider schneidet, Brennstoff verbraucht: @1%

@@ -1,0 +1,42 @@
+# Turkish translation by mahmutelmas06
+# last update: 2016/June/5
+
+#admin.lua
+Remove Protectors near players with names provided (separate names with spaces) = Ismi verilen oyuncuların yanındaki korumaları kaldır. ( İsimleri boşlukla ayır)
+Protector Names to remove: @1 = Silinecek korumaların isimleri: @1
+Name List Reset = İsim listesini sıfırla
+
+#doors_chest.lua
+Protected Wooden Door = Korumalı ahşap kapı
+Protected Steel Door = Korumalı çelik kapı
+Protected Trapdoor = Korumalı tuzak kapısı
+Protected Steel Trapdoor = Korumalı çelik tuzak kapısı
+Protected Chest = Korumalı sandık
+@1 moves stuff to protected chest at @2 = @1 korumalı sandığa birşeyler koydu @2
+@1 takes stuff from protected chest at @2 = @1 korumalı sandıktan birşeyler aldı @2
+To Chest = Sandığa
+To Inventory = Envantere
+Protected Chest (@1) = Korumalı sandık (@1)
+
+#init.lua
+-- Protector interface -- = 
+PUNCH node to show protected area = Korunan alanı göstermek için yumruk
+USE for area check = Bölge kontrolü için kullan
+Members: = Üyeler
+Close = Kapat
+This area is owned by @1! = Burasının sahibi  @1! 
+This area is owned by @1. = Burasının sahibi  @1.
+Protection located at: @1 = Korumanın bulunduğu yer  @1
+Members: @1. = Üyeler  @1. 
+This area is not protected. = Bu alan korumalı değildir.
+You can build here. = Buraya inşaa edebilirsiniz.
+Overlaps into above players protected area = 
+Protection Block = Koruma kutusu
+Protection (owned by @1) = Koruma (@1 sahibidir) 
+Protection Logo = Koruma arması
+[MOD] Protector Redo loaded = [MOD] Protector Redo yüklendi
+
+#pvp.lua
+[Protector] on_punchplayer called with nil objects = [Protector] on_punchplayer boş objelerle çağrıldı
+[Protector] pvp_protect not active, update your version of Minetest = [Protector] pvp_protect aktif değil, Minetest sürümünüzü güncelleyin.
+[Protector] pvp_protect is disabled = [Protector] pvp_protect kapatıldı.
