@@ -6,7 +6,7 @@ Select `singlenode` mapgen for full experience.
 
 ## Download
 
-_(SOON)_
+- Latest "stable" version (0.0.1a): [link](https://github.com/Quent42340/TechTest/releases/tag/0.0.1a)
 
 ## Using git
 

@@ -1,1 +1,0 @@
-Adds fireflies which can be caught in a net and placed in bottles for lighting.
