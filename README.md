@@ -2,11 +2,9 @@
 
 This Minetest game is heavily inspirated by FeedTheBeast SkyFactory.
 
-Select `singlenode` mapgen for full experience.
-
 ## Download
 
-- Latest "stable" version (0.0.1a): [link](https://github.com/Quent42340/TechTest/releases/tag/0.0.1a)
+- Latest "stable" version (0.1.0a): [link](https://github.com/Quent42340/TechTest/releases/tag/0.1.0a)
 
 ## Using git
 

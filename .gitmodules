@@ -7,3 +7,12 @@
 [submodule "mods/skyblock"]
 	path = mods/skyblock
 	url = git@github.com:Quent42340/minetest-skyblock.git
+[submodule "mods/fluid_lib"]
+	path = mods/fluid_lib
+	url = https://gitlab.icynet.eu/evert/fluid_lib.git
+[submodule "mods/elepower"]
+	path = mods/elepower
+	url = https://gitlab.icynet.eu/evert/elepower.git
+[submodule "mods/melterns"]
+	path = mods/melterns
+	url = https://gitlab.icynet.eu/evert/melterns.git
