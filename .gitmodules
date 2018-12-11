@@ -1,12 +1,15 @@
+# [submodule "mods/wtdn"]
+# 	path = mods/wtdn
+# 	url = git@github.com:Quent42340/wtdn.git
 [submodule "mods/fromscratch"]
 	path = mods/fromscratch
 	url = git@github.com:Quent42340/FromScratch.git
-[submodule "mods/wtdn"]
-	path = mods/wtdn
-	url = git@github.com:Quent42340/wtdn.git
 [submodule "mods/skyblock"]
 	path = mods/skyblock
 	url = git@github.com:Quent42340/minetest-skyblock.git
+[submodule "mods/item_drop"]
+	path = mods/item_drop
+	url = git@github.com:Quent42340/item_drop.git
 [submodule "mods/fluid_lib"]
 	path = mods/fluid_lib
 	url = https://gitlab.icynet.eu/evert/fluid_lib.git
