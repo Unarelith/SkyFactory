@@ -1,10 +1,12 @@
 # SkyFactory
 
+Build the ultimate factory in the sky!
+
 This Minetest game is heavily inspirated by FeedTheBeast SkyFactory.
 
 ## Download
 
-- Latest "stable" version (0.1.0a): [link](https://github.com/Quent42340/SkyFactory/releases/tag/0.1.0a)
+- Latest "stable" version: [link](https://github.com/Quent42340/SkyFactory/releases)
 
 ## Using git
 

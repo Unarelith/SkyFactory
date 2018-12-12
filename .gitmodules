@@ -1,15 +1,24 @@
 # [submodule "mods/wtdn"]
 # 	path = mods/wtdn
 # 	url = git@github.com:Quent42340/wtdn.git
+[submodule "mods/minetest_game"]
+	path = mods/minetest_game
+	url = https://github.com/minetest/minetest_game
 [submodule "mods/fromscratch"]
 	path = mods/fromscratch
-	url = git@github.com:Quent42340/FromScratch.git
+	url = https://github.com/Quent42340/FromScratch.git
+[submodule "mods/quest_lib"]
+	path = mods/quest_lib
+	url = https://github.com/Quent42340/quest_lib.git
 [submodule "mods/skyblock"]
 	path = mods/skyblock
-	url = git@github.com:Quent42340/minetest-skyblock.git
+	url = https://github.com/Quent42340/minetest-skyblock.git
 [submodule "mods/item_drop"]
 	path = mods/item_drop
-	url = git@github.com:Quent42340/item_drop.git
+	url = https://github.com/Quent42340/item_drop.git
+[submodule "mods/unified_inventory"]
+	path = mods/unified_inventory
+	url = https://github.com/Quent42340/unified_inventory.git
 [submodule "mods/fluid_lib"]
 	path = mods/fluid_lib
 	url = https://gitlab.icynet.eu/evert/fluid_lib.git
