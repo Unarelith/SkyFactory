@@ -1,21 +1,45 @@
+[submodule "mods/bonemeal"]
+	path = mods/bonemeal
+	url = https://notabug.org/TenPlus1/bonemeal
 [submodule "mods/connected_chests"]
 	path = mods/connected_chests
 	url = https://github.com/HybridDog/connected_chests.git
 [submodule "mods/elepower"]
 	path = mods/elepower
 	url = https://gitlab.icynet.eu/evert/elepower.git
+[submodule "mods/facade"]
+	path = mods/facade
+	url = https://github.com/TumeniNodes/facade
+[submodule "mods/farming"]
+	path = mods/farming
+	url = https://notabug.org/TenPlus1/Farming
 [submodule "mods/fluid_lib"]
 	path = mods/fluid_lib
 	url = https://gitlab.icynet.eu/evert/fluid_lib.git
 [submodule "mods/fromscratch"]
 	path = mods/fromscratch
 	url = https://github.com/Quent42340/FromScratch.git
+[submodule "mods/hopper"]
+	path = mods/hopper
+	url = https://github.com/minetest-mods/hopper
+[submodule "mods/intllib"]
+	path = mods/intllib
+	url = https://github.com/minetest-mods/intllib
 [submodule "mods/item_drop"]
 	path = mods/item_drop
 	url = https://github.com/Quent42340/item_drop.git
 [submodule "mods/melterns"]
 	path = mods/melterns
 	url = https://gitlab.icynet.eu/evert/melterns.git
+[submodule "mods/moreblocks"]
+	path = mods/moreblocks
+	url = https://github.com/minetest-mods/moreblocks
+[submodule "mods/mydoors"]
+	path = mods/mydoors
+	url = https://github.com/minetest-mods/mydoors
+[submodule "mods/protector"]
+	path = mods/protector
+	url = https://github.com/Zeg9/minetest-protect
 [submodule "mods/quest_lib"]
 	path = mods/quest_lib
 	url = https://github.com/Quent42340/quest_lib.git
