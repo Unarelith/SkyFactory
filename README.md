@@ -13,3 +13,27 @@ This Minetest game is heavily inspirated by FeedTheBeast SkyFactory.
 `git clone --recursive git@github.com:Quent42340/SkyFactory.git`
 (Needed for submodules)
 
+## Mod list
+
+- [bonemeal](https://notabug.org/TenPlus1/bonemeal) (local)
+- [connected_chests](https://github.com/HybridDog/connected_chests)
+- [elepower](https://gitlab.icynet.eu/evert/elepower)
+- [facade](https://github.com/TumeniNodes/facade) (local)
+- [farming](https://notabug.org/TenPlus1/Farming) (local)
+- [fluid_lib](https://gitlab.icynet.eu/evert/fluid_lib)
+- [fromscratch](https://github.com/Quent42340/FromScratch)
+- [hopper](https://github.com/minetest-mods/hopper) (local)
+- [intllib](https://github.com/minetest-mods/intllib) (local)
+- [item_drop](https://github.com/Quent42340/item_drop)
+- [melterns](https://gitlab.icynet.eu/evert/melterns)
+- [minetest_game](https://github.com/minetest/minetest_game) (local)
+- [moreblocks](https://github.com/minetest-mods/moreblocks) (local)
+- [mydoors](https://github.com/minetest-mods/mydoors) (local)
+- [protector](https://github.com/Zeg9/minetest-protect) (local)
+- [quest_lib](https://github.com/Quent42340/quest_lib)
+- skyfactory_quests (local mod)
+- [sky_islands](https://github.com/Quent42340/sky_islands)
+- [storage_interface](https://github.com/cx384/storage_interface)
+- [unified_inventory](https://github.com/minetest-mods/unified_inventory)
+- [witt](https://github.com/MightyAlex200/WiTT) (has some local changes)
+

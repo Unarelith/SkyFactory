@@ -1,36 +1,30 @@
-# [submodule "mods/wtdn"]
-# 	path = mods/wtdn
-# 	url = git@github.com:Quent42340/wtdn.git
-[submodule "mods/minetest_game"]
-	path = mods/minetest_game
-	url = https://github.com/minetest/minetest_game
+[submodule "mods/connected_chests"]
+	path = mods/connected_chests
+	url = https://github.com/HybridDog/connected_chests.git
+[submodule "mods/elepower"]
+	path = mods/elepower
+	url = https://gitlab.icynet.eu/evert/elepower.git
+[submodule "mods/fluid_lib"]
+	path = mods/fluid_lib
+	url = https://gitlab.icynet.eu/evert/fluid_lib.git
 [submodule "mods/fromscratch"]
 	path = mods/fromscratch
 	url = https://github.com/Quent42340/FromScratch.git
+[submodule "mods/item_drop"]
+	path = mods/item_drop
+	url = https://github.com/Quent42340/item_drop.git
+[submodule "mods/melterns"]
+	path = mods/melterns
+	url = https://gitlab.icynet.eu/evert/melterns.git
 [submodule "mods/quest_lib"]
 	path = mods/quest_lib
 	url = https://github.com/Quent42340/quest_lib.git
 [submodule "mods/sky_islands"]
 	path = mods/sky_islands
 	url = https://github.com/Quent42340/sky_islands.git
-[submodule "mods/item_drop"]
-	path = mods/item_drop
-	url = https://github.com/Quent42340/item_drop.git
-[submodule "mods/unified_inventory"]
-	path = mods/unified_inventory
-	url = https://github.com/minetest-mods/unified_inventory.git
-[submodule "mods/fluid_lib"]
-	path = mods/fluid_lib
-	url = https://gitlab.icynet.eu/evert/fluid_lib.git
-[submodule "mods/elepower"]
-	path = mods/elepower
-	url = https://gitlab.icynet.eu/evert/elepower.git
-[submodule "mods/melterns"]
-	path = mods/melterns
-	url = https://gitlab.icynet.eu/evert/melterns.git
 [submodule "mods/storage_interface"]
 	path = mods/storage_interface
 	url = https://github.com/cx384/storage_interface.git
-[submodule "mods/connected_chests"]
-	path = mods/connected_chests
-	url = https://github.com/HybridDog/connected_chests.git
+[submodule "mods/unified_inventory"]
+	path = mods/unified_inventory
+	url = https://github.com/minetest-mods/unified_inventory.git
