@@ -10,9 +10,9 @@
 [submodule "mods/quest_lib"]
 	path = mods/quest_lib
 	url = https://github.com/Quent42340/quest_lib.git
-[submodule "mods/skyblock"]
-	path = mods/skyblock
-	url = https://github.com/Quent42340/minetest-skyblock.git
+[submodule "mods/sky_islands"]
+	path = mods/sky_islands
+	url = https://github.com/Quent42340/sky_islands.git
 [submodule "mods/item_drop"]
 	path = mods/item_drop
 	url = https://github.com/Quent42340/item_drop.git
