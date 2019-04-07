@@ -52,3 +52,6 @@
 [submodule "mods/unified_inventory"]
 	path = mods/unified_inventory
 	url = https://github.com/minetest-mods/unified_inventory.git
+[submodule "mods/3d_armor"]
+	path = mods/3d_armor
+	url = https://github.com/stujones11/minetest-3d_armor
