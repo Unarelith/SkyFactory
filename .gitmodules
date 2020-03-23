@@ -6,7 +6,7 @@
 	url = https://github.com/HybridDog/connected_chests.git
 [submodule "mods/elepower"]
 	path = mods/elepower
-	url = https://github.com/programmerjake/elepower.git
+	url = https://gitlab.icynet.eu/evert/elepower.git
 [submodule "mods/facade"]
 	path = mods/facade
 	url = https://github.com/TumeniNodes/facade
