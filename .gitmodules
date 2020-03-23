@@ -18,7 +18,7 @@
 	url = https://gitlab.icynet.eu/evert/fluid_lib.git
 [submodule "mods/fromscratch"]
 	path = mods/fromscratch
-	url = https://github.com/Quent42340/FromScratch.git
+	url = https://github.com/programmerjake/FromScratch
 [submodule "mods/hopper"]
 	path = mods/hopper
 	url = https://github.com/minetest-mods/hopper
@@ -55,3 +55,6 @@
 [submodule "mods/3d_armor"]
 	path = mods/3d_armor
 	url = https://github.com/stujones11/minetest-3d_armor
+[submodule "mods/moreores"]
+	path = mods/moreores
+	url = https://github.com/minetest-mods/moreores.git
